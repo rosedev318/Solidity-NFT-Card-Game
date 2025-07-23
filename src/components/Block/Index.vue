@@ -14,6 +14,7 @@
  * The home index page.
  */
 
+
 export default {
   /**
    * The name of the page.
